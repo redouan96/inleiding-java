@@ -10,7 +10,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 		
-	public class Hoofdstuk5 extends Applet	{
+	public class Hoofdstuk8 extends Applet	{
 	private static final long serialVersionUID = 1L;
 	
 	double antwoord;	
